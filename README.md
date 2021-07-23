@@ -1,4 +1,4 @@
-# SEGUIMIENTO BACK
+# LUIS CAPOTE - @thekingf4
 
 _Este proyecto fue creado para darle manejo al back de seguimiento a tu pedido y seguimientoadmin _
 
