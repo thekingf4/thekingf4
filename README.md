@@ -9,3 +9,8 @@ _ Me apasiona desarrollo de aplicaciones, he participado proyectos utilizando le
  - lenguajes front con los que he trabajado: JAVASCRIPT
  - Framework back: Django, Laravel, Express js, Adonis js.
  - Framework Front: Vue y React
+
+# Contacto
+ - [linkedin](https://www.linkedin.com/in/inglcapote/)
+ - [Twitter](https://twitter.com/LuisCapotea)
+ - [Instagram](https://www.instagram.com/luiscapotea/)
