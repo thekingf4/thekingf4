@@ -1,6 +1,6 @@
 # LUIS CAPOTE - @thekingf4
 
-_ Me apasiona desarrollo de aplicaciones, he participado proyectos utilizando lenguajes Backend como PHP, Python y Nodejs, además, he realizado Frontend con Bootstrap, HTML y JS con Framework como Vue y React creando así portales o aplicaciones web de alto rendimiento. Soy autodidacta estoy siempre en constante aprendizaje, trabajador, emprendedor, honesto, soñador y consciente de que con pasión y fé puedo lograr mis objetivos. _
+_ Me apasiona desarrollo de aplicaciones, he participado proyectos utilizando lenguajes Backend como PHP, Python y Nodejs, además, he realizado Frontend con Bootstrap, HTML y JS con Framework como Vue creando así portales o aplicaciones web de alto rendimiento. Soy autodidacta estoy siempre en constante aprendizaje, trabajador, emprendedor, honesto, soñador y consciente de que con pasión y fé puedo lograr mis objetivos. _
 
 ## Hola 🚀
 
